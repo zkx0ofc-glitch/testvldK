@@ -1,0 +1,36 @@
+{
+  "mods": [
+    {
+      "id": "mod_01",
+      "title": "Absolute Optimization",
+      "version": "1.20.1",
+      "desc": "Melhora o FPS e otimiza a memória do jogo.",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/files/mod1.jar"
+    },
+    {
+      "id": "mod_02",
+      "title": "Absolute Shaders",
+      "version": "1.20.1",
+      "desc": "Adiciona efeitos visuais de iluminação e sombras realistas.",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/files/mod2.jar"
+    }
+  ],
+  "mapas": [
+    {
+      "id": "map_01",
+      "title": "Absolute Survival Spawn",
+      "version": "1.20",
+      "desc": "Mapa pronto para início de survival com construções incríveis.",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/files/mapa1.zip"
+    }
+  ],
+  "skins": [
+    {
+      "id": "skin_01",
+      "title": "Absolute Cyber Armor",
+      "version": "1.0",
+      "desc": "Skin HD com tema futurista e detalhes em neon.",
+      "url": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/files/skin1.png"
+    }
+  ]
+}
